@@ -27,7 +27,7 @@ Your goal is to create an LLM Agent to:
 ## Prerequisites
 - The data is provided in the `data` directory. The file is named `research_paper.pdf`
 - You will be given an OpenAI API key with 10$ to conduct your experiments
-
+- Test your API key using the `tutorials/test_api_key.ipynb` notebook. If you encouters any problems, please contact us.
 
 ## Deliverables
 We expect you to provide us with:
