@@ -1,5 +1,11 @@
 # Technical Interview - LLM Engineer
 
+- Please, don't spend more than 6 hours on this exercice. We are aware that you could spend weeks improving your solution. After 6 hours, stop coding, just write your improvement ideas.
+- Use Python and accelerate your developement using LangGraph or similar agentic frameworks.
+- We don't expect a Frontend. You can do a fast backend API but it is not mandatory.
+- Make this code executable in a Docker container or creating a markdown tutorial.s
+
+
 ## Problem Statement
 Your goal is to create an LLM Agent to:
 - Process the file provided in the `data` directory
