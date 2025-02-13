@@ -1,7 +1,7 @@
 import openai
 import os
-import truststore
-truststore.inject_into_ssl()
+#import truststore
+#truststore.inject_into_ssl()
 # Set the API key and model name
 MODEL = "gpt-4o-mini"
 API_KEY = os.environ.get("OPENAI_API_KEY", "API KEY")
